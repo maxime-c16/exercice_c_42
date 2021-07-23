@@ -6,11 +6,12 @@
 /*   By: mcauchy <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/07/19 21:31:08 by mcauchy           #+#    #+#             */
-/*   Updated: 2021/07/20 11:45:01 by mcauchy          ###   ########.fr       */
+/*   Updated: 2021/07/22 11:59:27 by mcauchy          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
+#include <stdlib.h>
 
 int	ft_strlen(char *str)
 {
