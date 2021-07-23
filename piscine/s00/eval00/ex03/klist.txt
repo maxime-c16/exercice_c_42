@@ -1,0 +1,5 @@
+Credentials cache: API:24AEA94A-3982-4844-9517-FCF7BB248D8B
+        Principal: mcauchy@42.FR
+
+  Issued                Expires               Principal
+Jun 28 14:32:04 2021  Jul  5 14:31:56 2021  krbtgt/42.FR@42.FR
